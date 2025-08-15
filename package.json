@@ -1,0 +1,12 @@
+{
+  "name": "caresync",
+  "version": "1.0.0",
+  "description": "Hackathon starter project for CareSync.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["hackathon", "starter"],
+  "author": "RitoDutta",
+  "license": "MIT"
+}
